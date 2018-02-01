@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="253.0" prefWidth="466.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="com.vernanda.view.FromAController">
+   <children>
+      <Button fx:id="btnA" layoutX="181.0" layoutY="102.0" mnemonicParsing="false" onAction="#btnAOnAction" prefHeight="25.0" prefWidth="81.0" text="A" />
+      <Label layoutX="202.0" layoutY="70.0" text="Form A" />
+   </children>
+</AnchorPane>
